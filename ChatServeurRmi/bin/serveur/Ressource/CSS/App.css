@@ -1,0 +1,28 @@
+.button{
+	-fx-font: 16px "Comic Sans MS";
+	-fx-background-color: #E66A6A;
+	-fx-background-raduis: 5px;
+	-fx-text-fill: #fff;
+	-fx-padding: 8px;
+}
+
+#label{
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-zise: 14px;
+	-fx-text-fill: #fff;
+	
+}
+
+#label2{
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-zise: 14px;
+	-fx-text-fill: #fff;
+	
+}
+
+#label3{
+	
+	-fx-font-zise: 50px;
+	-fx-text-fill:  red;
+	
+}
